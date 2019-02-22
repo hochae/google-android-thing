@@ -8,7 +8,10 @@
   - The [Pico variant of GApps](https://opengapps.org/) is pin-compatible with the [Intel® Edison](https://en.wikipedia.org/wiki/Intel_Edison) for sensors and low-speed I/O
   - also adds additional expansion possibilities for multimedia and connectivity
   - can easily be expanded and implemented for IoT designs.
-  - #### [Flashing Image](https://developer.android.com/things/hardware/imx7d#flashing_the_image)
+  ### [Flashing Image](https://developer.android.com/things/hardware/imx7d#flashing_the_image)
+  - [Download the Android Things Setup Utility from the Android Things Console.](https://partner.android.com/things/console/#/tools)
+    - can't download the tool, yet...
+  
 - ### [Raspberry Pi3](https://developer.android.com/things/hardware/raspberrypi)
 
 
